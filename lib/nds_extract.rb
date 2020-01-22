@@ -1,5 +1,5 @@
 # Provided, don't edit
-require 'directors_database'
+require_relative './directors_database'
 require 'pp'
 
 pp directors_database
